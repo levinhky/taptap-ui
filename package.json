@@ -10,10 +10,18 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-native/new-app-screen": "0.81.1",
+    "@reduxjs/toolkit": "^2.9.0",
+    "moment": "^2.30.1",
     "react": "19.1.0",
     "react-native": "0.81.1",
-    "@react-native/new-app-screen": "0.81.1",
-    "react-native-safe-area-context": "^5.5.2"
+    "react-native-date-picker": "^5.0.13",
+    "react-native-reanimated": "^4.1.0",
+    "react-native-safe-area-context": "^5.5.2",
+    "react-native-select-dropdown": "^4.0.1",
+    "react-native-toast-message": "^2.3.3",
+    "react-native-worklets": "^0.5.0",
+    "react-redux": "^9.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
